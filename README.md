@@ -1,25 +1,5 @@
-# README
+# Hello
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Este é um repositorio que vou armazenar alguns estudos sobre arquitetura que acredito que façam sentido para um ecommerce.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# ecommerce-rails
+Acho que não é certo ou errado, são apenas novas ideias e caminhos para resolver problemas complexos de engenharia de software.
