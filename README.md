@@ -11,3 +11,9 @@ Acho que não é certo ou errado, são apenas novas ideias e caminhos para resol
 * Carrinho de compras;
 * Checkout;
 * Envio;
+
+## Documentos de estudo
+
+### Gem Whisper para pub/sub em memória para execução do seu código
+
+https://github.com/krisleech/wisper
